@@ -1,2 +1,2 @@
-# CU-SBI
-Website for CU SBI
+# premedsociety
+Website for the Harvard Premedical Society
