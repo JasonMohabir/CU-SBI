@@ -1,2 +1,2 @@
-# premedsociety
-Website for the Harvard Premedical Society
+# CU - SBI
+Website for the Columbia Synthetic Biology Initiative
